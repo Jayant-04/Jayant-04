@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jayant-04
+- 👀 I’m interested in python and machine language.
+- 🌱 I’m currently learning Python.
